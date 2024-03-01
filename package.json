@@ -1,0 +1,14 @@
+{
+  "name": "trabajo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app":"node app.js",
+    "suma": "node operaciones/sum.js ",
+    "sub": "node operaciones/basic/sub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
