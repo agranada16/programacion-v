@@ -7,7 +7,9 @@
     "app":"node app.js",
     "suma": "node operaciones/sum.js ",
     "multiplicar": "node operaciones/multi.js ",
-    "sub": "node operaciones/basic/sub.js"
+    "sub": "node operaciones/basic/sub.js",
+    "variables" : "node intro/variables.js" ,
+    "operadores" : "node intro/operadores.js"
   },
   "keywords": [],
   "author": "",
