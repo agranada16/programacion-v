@@ -1,7 +1,12 @@
-h1{
+h1,h2{
     color: #8ebddb;
+    
 }
 
 body{
     background-color: black;
+}
+
+.texto{
+    text-align: center;
 }
