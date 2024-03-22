@@ -29,7 +29,25 @@ let counter3 = 14;
 counter3 = counter3/2;
 console.log(counter3);
 counter3 /= 2;
-console.log(counter3)
+console.log(counter3)     
+
+//mpdulo residuo
+
+let numberc =21;
+numberc = numberc % 5;//1
+console.log(numberc);
+numberc %= 5;
+
+//exponenciacion
+let number = 10;
+number =number **2;//100
+number **=2;
+console.log(number);
+
+
+
+
+
 
 
 

@@ -9,7 +9,9 @@
     "multiplicar": "node operaciones/multi.js ",
     "sub": "node operaciones/basic/sub.js",
     "variables" : "node intro/variables.js" ,
-    "operadores" : "node intro/operadores.js"
+    "operadores" : "node intro/operadores.js",
+    "operadores_comparacion":"node intro/operadores_comparacion.js",
+    "operadores_logicos": "node intro/operadores_logicos.js"
   },
   "keywords": [],
   "author": "",
